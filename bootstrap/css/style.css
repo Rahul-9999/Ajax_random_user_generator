@@ -1,0 +1,26 @@
+/* Your custom styles */
+.carousel .carousel-indicators li {
+    max-width: 30px;
+    height: 10px;
+    border-radius: 0% !important;
+    cursor: pointer; }
+
+input[type="checkbox"] {
+    height: 20px;
+    width: 20px;
+    float: right;
+    margin-right: 135px;
+    margin-top: -40px;
+}
+
+.timezone {
+    width: 33.33%;
+    display:inline-block;
+    font-size:20px;
+    text-align:center;
+    padding-top: 10px;
+    height:100px;
+    background-color: #0b51c5;
+    border:5px solid white;
+    color: #ffffff;
+}
